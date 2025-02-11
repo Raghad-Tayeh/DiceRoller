@@ -17,7 +17,7 @@ A simple Android app that simulates rolling a dice. This project demonstrates ba
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/dice-roller.git
+   git clone https://github.com/Raghad-Tayeh/dice-roller.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
